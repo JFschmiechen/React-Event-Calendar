@@ -1,0 +1,12 @@
+
+$mini-size: 20px;
+
+.mini-event {
+  width: $mini-size;
+  height: $mini-size;
+  border-radius: 50%;
+
+  color: white;
+  margin: 0.5em auto auto auto;
+  line-height: 19px;
+}

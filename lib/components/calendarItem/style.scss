@@ -1,0 +1,25 @@
+
+.calendar-tile {
+  float: left;
+  cursor: pointer;
+  overflow: visible !important; // Override material UI
+}
+
+.plus-more {
+  color: slateblue;
+  float: left;
+  cursor: pointer;
+  margin: 4% 0 0 2%;
+
+    &:hover {
+      opacity: 0.85;
+    }
+}
+
+.week-day-headers {
+  margin: 0;
+}
+
+.MuiCard-root-1 {
+  overflow: visible !important;
+}

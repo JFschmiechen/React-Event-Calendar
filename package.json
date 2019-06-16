@@ -1,0 +1,59 @@
+{
+  "name": "@jfschmiechen/react-event-calendar",
+  "version": "0.1.6",
+  "private": false,
+  "license": "MIT",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jfschmiechen/react-event-calendar.git"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.6"
+  },
+  "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "moment": "^2.24.0",
+    "node-sass": "^4.12.0",
+    "react-resize-detector": "^4.2.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1"
+  },
+  "babel": {
+    "presets": [
+      "react",
+      "env",
+      "stage-2"
+    ]
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "publish:npm": "SET NODE_ENV=production && del -rf dist && mkdir dist && npx babel src/containers --out-dir dist --copy-files"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

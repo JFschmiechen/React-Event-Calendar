@@ -1,0 +1,26 @@
+
+$calendar-width: 100%;
+$calendar-height: 100%;
+
+.calendar-container {
+  height: $calendar-height;
+  width: $calendar-width;
+  text-align: center;
+  min-height: 380px;
+  min-width: 200px;
+}
+
+.menu-calendar-container {
+  display: flex;
+  flex-direction: row;
+  width: $calendar-width;
+
+}
+
+.calendar-tile-container {
+  float: right;
+  width: $calendar-width;
+  height: $calendar-height;
+}
+
+

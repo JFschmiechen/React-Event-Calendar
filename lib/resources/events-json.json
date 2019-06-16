@@ -1,0 +1,1970 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33ccd354p3eu40g\"",
+ "summary": "jfschmiechen@gmail.com",
+ "description": "SouthKern-Android",
+ "updated": "2019-06-09T23:35:23.655Z",
+ "timeZone": "America/Los_Angeles",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CNjGjKTI3eICEAAYAQ==",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3034395564674000\"",
+   "id": "7pg3vpu4p708t7au0gaaqu59e3",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N3BnM3ZwdTRwNzA4dDdhdTBnYWFxdTU5ZTMgamZzY2htaWVjaGVuQG0",
+   "created": "2018-01-29T03:49:42.000Z",
+   "updated": "2018-01-29T03:49:42.337Z",
+   "summary": "Call Spectrum about slow service.",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-01-29T13:00:00-08:00"
+   },
+   "end": {
+    "dateTime": "2018-01-29T14:00:00-08:00"
+   },
+   "iCalUID": "7pg3vpu4p708t7au0gaaqu59e3@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3036056540262000\"",
+   "id": "n4f4evtahj7ncobntk9p3fgne0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bjRmNGV2dGFoajduY29ibnRrOXAzZmduZTAgamZzY2htaWVjaGVuQG0",
+   "created": "2018-02-07T18:31:09.000Z",
+   "updated": "2018-02-07T18:31:10.131Z",
+   "summary": "Remind hannie to fill gas",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-02-07T14:45:00-08:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2018-02-07T15:45:00-08:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "iCalUID": "n4f4evtahj7ncobntk9p3fgne0@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3065297621450000\"",
+   "id": "74s6ap1o60o30b9o6go3gb9k6pi62b9p6sq6cb9j6komce356hh3aob46k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzRzNmFwMW82MG8zMGI5bzZnbzNnYjlrNnBpNjJiOXA2c3E2Y2I5ajZrb21jZTM1NmhoM2FvYjQ2ayBqZnNjaG1pZWNoZW5AbQ",
+   "created": "2018-07-23T18:42:55.000Z",
+   "updated": "2018-07-26T23:46:50.725Z",
+   "summary": "Doctor's appointment with Mr a buoy suit 1000",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-07-30T09:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2018-07-30T10:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "iCalUID": "74s6ap1o60o30b9o6go3gb9k6pi62b9p6sq6cb9j6komce356hh3aob46k@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3083488452470000\"",
+   "id": "7onk381d47bg9uk7p161gbcv3t",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N29uazM4MWQ0N2JnOXVrN3AxNjFnYmN2M3QgamZzY2htaWVjaGVuQG0",
+   "created": "2018-11-05T23:45:00.000Z",
+   "updated": "2018-11-09T06:17:06.235Z",
+   "summary": "Doctors app",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-11-06T11:45:00-08:00"
+   },
+   "end": {
+    "dateTime": "2018-11-06T13:15:00-08:00"
+   },
+   "iCalUID": "7onk381d47bg9uk7p161gbcv3t@google.com",
+   "sequence": 1,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3084509254894000\"",
+   "id": "9gt5ae65es8ng5lq1uak697b64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=OWd0NWFlNjVlczhuZzVscTF1YWs2OTdiNjQgamZzY2htaWVjaGVuQG0",
+   "created": "2018-11-13T01:52:35.000Z",
+   "updated": "2018-11-15T04:03:47.447Z",
+   "summary": "Doc appointment",
+   "description": "sleep apnea",
+   "location": "1111 Columbus rd",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-11-14T15:52:00-08:00"
+   },
+   "end": {
+    "dateTime": "2018-11-14T17:15:54-08:00"
+   },
+   "iCalUID": "9gt5ae65es8ng5lq1uak697b64@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3086863200714000\"",
+   "id": "tr8k5sd4l44cvcr3cvani0kl2s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dHI4azVzZDRsNDRjdmNyM2N2YW5pMGtsMnMgamZzY2htaWVjaGVuQG0",
+   "created": "2018-11-28T19:00:00.000Z",
+   "updated": "2018-11-28T19:00:00.357Z",
+   "summary": "test",
+   "description": "event testing",
+   "location": "Bakersfield college",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-11-28T13:26:00-08:00"
+   },
+   "end": {
+    "dateTime": "2018-11-28T16:20:59-08:00"
+   },
+   "iCalUID": "tr8k5sd4l44cvcr3cvani0kl2s@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3087051052910000\"",
+   "id": "i9rr98to4krtte3e8rnjgj8pes",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aTlycjk4dG80a3J0dGUzZThybmpnajhwZXMgamZzY2htaWVjaGVuQG0",
+   "created": "2018-11-23T10:07:06.000Z",
+   "updated": "2018-11-29T21:05:26.455Z",
+   "summary": "BHC app showcase",
+   "description": "We plan to show the client our progress so far, and discuss the direction of the project. Let us know if you are free this day.",
+   "location": "Bakersfield college",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-12-08T16:00:00-08:00"
+   },
+   "end": {
+    "dateTime": "2018-12-08T18:30:39-08:00"
+   },
+   "iCalUID": "i9rr98to4krtte3e8rnjgj8pes@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3087054031746000\"",
+   "id": "87p2g0j0mrm0un7h010s93bg60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ODdwMmcwajBtcm0wdW43aDAxMHM5M2JnNjAgamZzY2htaWVjaGVuQG0",
+   "created": "2018-11-29T21:04:05.000Z",
+   "updated": "2018-11-29T21:30:15.873Z",
+   "summary": "Take brother out to eat",
+   "description": "I plan to take my brother out to eat since I have not talked with him recently",
+   "location": "Wingstop",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-12-02T13:30:00-08:00"
+   },
+   "end": {
+    "dateTime": "2018-12-02T16:20:05-08:00"
+   },
+   "iCalUID": "87p2g0j0mrm0un7h010s93bg60@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3087124261376000\"",
+   "id": "6j6bed15utivpqbg2u0n2v2684",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Nmo2YmVkMTV1dGl2cHFiZzJ1MG4ydjI2ODQgamZzY2htaWVjaGVuQG0",
+   "created": "2018-11-30T06:20:13.000Z",
+   "updated": "2018-11-30T07:15:30.688Z",
+   "summary": "Attend opening of new bank",
+   "description": "We invite you to attend the grand opening of a brand new bank here in Bakersfield. Our community grows each year!",
+   "location": "3508 Ming Ave",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-12-14T11:30:00-08:00"
+   },
+   "end": {
+    "dateTime": "2018-12-14T13:30:00-08:00"
+   },
+   "iCalUID": "6j6bed15utivpqbg2u0n2v2684@google.com",
+   "sequence": 5,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3087124345578000\"",
+   "id": "4dr4e1lrjf8d77pnlhosrog2pt",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NGRyNGUxbHJqZjhkNzdwbmxob3Nyb2cycHQgamZzY2htaWVjaGVuQG0",
+   "created": "2018-11-30T07:16:12.000Z",
+   "updated": "2018-11-30T07:16:12.789Z",
+   "summary": "test",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-01-09T11:00:00-08:00"
+   },
+   "end": {
+    "dateTime": "2019-01-09T12:00:00-08:00"
+   },
+   "iCalUID": "4dr4e1lrjf8d77pnlhosrog2pt@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3093170627346000\"",
+   "id": "eht41e07aq0eqc0hv8pb1cjm6c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZWh0NDFlMDdhcTBlcWMwaHY4cGIxY2ptNmMgamZzY2htaWVjaGVuQG0",
+   "created": "2019-01-04T07:01:31.000Z",
+   "updated": "2019-01-04T07:01:53.673Z",
+   "summary": "Coffee shop meet up",
+   "description": "Discuss project progress and milestones",
+   "location": "2234 Bakers Rd",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-01-03T12:11:00-08:00"
+   },
+   "end": {
+    "dateTime": "2019-01-03T16:10:12-08:00"
+   },
+   "iCalUID": "eht41e07aq0eqc0hv8pb1cjm6c@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3094962626608000\"",
+   "id": "46edro5hsc5psh2g7nmhel26s3",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NDZlZHJvNWhzYzVwc2gyZzdubWhlbDI2czMgamZzY2htaWVjaGVuQG0",
+   "created": "2019-01-14T15:55:13.000Z",
+   "updated": "2019-01-14T15:55:13.304Z",
+   "summary": "this event shouldn't appear",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-12-17T14:30:00-08:00"
+   },
+   "end": {
+    "dateTime": "2018-12-17T15:30:00-08:00"
+   },
+   "iCalUID": "46edro5hsc5psh2g7nmhel26s3@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3094963343564000\"",
+   "id": "45eubur0rii9nlia4agm3qetrl",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NDVldWJ1cjByaWk5bmxpYTRhZ20zcWV0cmwgamZzY2htaWVjaGVuQG0",
+   "created": "2019-01-14T15:59:06.000Z",
+   "updated": "2019-01-14T16:01:11.782Z",
+   "summary": "no appear",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-02-16T12:30:00-08:00"
+   },
+   "end": {
+    "dateTime": "2019-02-16T13:30:00-08:00"
+   },
+   "iCalUID": "45eubur0rii9nlia4agm3qetrl@google.com",
+   "sequence": 2,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3101387513304000\"",
+   "id": "5m74fjqt1us86e7mf2ifthb754",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NW03NGZqcXQxdXM4NmU3bWYyaWZ0aGI3NTQgamZzY2htaWVjaGVuQG0",
+   "created": "2019-02-20T20:15:56.000Z",
+   "updated": "2019-02-20T20:15:56.652Z",
+   "summary": "test event",
+   "description": "testing only",
+   "location": "1000 baker's road",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-02-23T14:44:00-08:00"
+   },
+   "end": {
+    "dateTime": "2019-02-23T18:00:34-08:00"
+   },
+   "iCalUID": "5m74fjqt1us86e7mf2ifthb754@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3102446181350000\"",
+   "id": "i20h06nuahh6pn222kgv4plegg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aTIwaDA2bnVhaGg2cG4yMjJrZ3Y0cGxlZ2cgamZzY2htaWVjaGVuQG0",
+   "created": "2019-02-26T23:18:10.000Z",
+   "updated": "2019-02-26T23:18:10.675Z",
+   "summary": "App release",
+   "description": "Releasing the app to the Google play store",
+   "location": "Bakersfield",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "displayName": "James Schmiechen",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-02-28T14:28:00-08:00"
+   },
+   "end": {
+    "dateTime": "2019-02-28T18:00:34-08:00"
+   },
+   "iCalUID": "i20h06nuahh6pn222kgv4plegg@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3116499494194000\"",
+   "id": "4f6l33u4gl418b42l9k32tds4v",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NGY2bDMzdTRnbDQxOGI0Mmw5azMydGRzNHYgamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-19T07:09:07.000Z",
+   "updated": "2019-05-19T07:09:07.097Z",
+   "summary": "hello",
+   "location": "2510 L St, Bakersfield, CA 93301, USA",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-05-07T17:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2019-05-07T18:30:00-07:00"
+   },
+   "iCalUID": "4f6l33u4gl418b42l9k32tds4v@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3116974356690000\"",
+   "id": "0c41ahiph466g0qgspodhssbmi",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MGM0MWFoaXBoNDY2ZzBxZ3Nwb2Roc3NibWkgamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-22T01:05:11.000Z",
+   "updated": "2019-05-22T01:06:18.345Z",
+   "summary": "test5",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-23"
+   },
+   "end": {
+    "date": "2019-05-24"
+   },
+   "transparency": "transparent",
+   "iCalUID": "0c41ahiph466g0qgspodhssbmi@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3117117368846000\"",
+   "id": "7k6aki9a2allbqqaf3ul5s15qh",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N2s2YWtpOWEyYWxsYnFxYWYzdWw1czE1cWggamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-19T07:38:10.000Z",
+   "updated": "2019-05-22T20:58:04.423Z",
+   "summary": "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-21"
+   },
+   "end": {
+    "date": "2019-05-24"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7k6aki9a2allbqqaf3ul5s15qh@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3117186254112000\"",
+   "id": "0hi1n6v8d1fm5rdmlc2im3j9ul",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MGhpMW42djhkMWZtNXJkbWxjMmltM2o5dWwgamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-23T06:32:07.000Z",
+   "updated": "2019-05-23T06:32:07.056Z",
+   "summary": "test6",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-22"
+   },
+   "end": {
+    "date": "2019-05-23"
+   },
+   "transparency": "transparent",
+   "iCalUID": "0hi1n6v8d1fm5rdmlc2im3j9ul@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3117322701208000\"",
+   "id": "6c550jt10mst7taab5vp7piroc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmM1NTBqdDEwbXN0N3RhYWI1dnA3cGlyb2MgamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-24T01:29:10.000Z",
+   "updated": "2019-05-24T01:29:10.604Z",
+   "summary": "test8",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-04-29"
+   },
+   "end": {
+    "date": "2019-04-30"
+   },
+   "transparency": "transparent",
+   "iCalUID": "6c550jt10mst7taab5vp7piroc@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3117322707422000\"",
+   "id": "2f1jg5h215e7e8kdreiml28ihb",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MmYxamc1aDIxNWU3ZThrZHJlaW1sMjhpaGIgamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-24T01:29:13.000Z",
+   "updated": "2019-05-24T01:29:13.711Z",
+   "summary": "test9",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-04-29"
+   },
+   "end": {
+    "date": "2019-04-30"
+   },
+   "transparency": "transparent",
+   "iCalUID": "2f1jg5h215e7e8kdreiml28ihb@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3117326658556000\"",
+   "id": "0bu13jcq1vofh0blp10tofqu5u",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MGJ1MTNqY3Exdm9maDBibHAxMHRvZnF1NXUgamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-24T02:02:09.000Z",
+   "updated": "2019-05-24T02:02:09.278Z",
+   "summary": "test111111111111111111111111",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-06-07"
+   },
+   "end": {
+    "date": "2019-06-11"
+   },
+   "transparency": "transparent",
+   "iCalUID": "0bu13jcq1vofh0blp10tofqu5u@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3117326821036000\"",
+   "id": "7sgr6ik3vk4mpl6be472sq8ok0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N3NncjZpazN2azRtcGw2YmU0NzJzcThvazAgamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-24T02:03:07.000Z",
+   "updated": "2019-05-24T02:03:30.518Z",
+   "summary": "teset1212",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-10"
+   },
+   "end": {
+    "date": "2019-05-14"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7sgr6ik3vk4mpl6be472sq8ok0@google.com",
+   "sequence": 1,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3117346479150000\"",
+   "id": "4q3tdvoom5d10ulfs27dacq8q4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NHEzdGR2b29tNWQxMHVsZnMyN2RhY3E4cTQgamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-24T04:47:19.000Z",
+   "updated": "2019-05-24T04:47:19.575Z",
+   "summary": "edge",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-06-01"
+   },
+   "end": {
+    "date": "2019-06-02"
+   },
+   "transparency": "transparent",
+   "iCalUID": "4q3tdvoom5d10ulfs27dacq8q4@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3117632561744000\"",
+   "id": "4a9c3qe55ejko5e22ajos7mlpv",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NGE5YzNxZTU1ZWprbzVlMjJham9zN21scHYgamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-25T20:31:20.000Z",
+   "updated": "2019-05-25T20:31:20.872Z",
+   "summary": "edge case 2",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-04-30"
+   },
+   "end": {
+    "date": "2019-05-02"
+   },
+   "transparency": "transparent",
+   "iCalUID": "4a9c3qe55ejko5e22ajos7mlpv@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3117655559630000\"",
+   "id": "22aggu3ei8lq6rvrr5vs0v4gtc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjJhZ2d1M2VpOGxxNnJ2cnI1dnMwdjRndGMgamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-25T23:42:59.000Z",
+   "updated": "2019-05-25T23:42:59.815Z",
+   "summary": "edge edge",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-06-01"
+   },
+   "end": {
+    "date": "2019-06-04"
+   },
+   "transparency": "transparent",
+   "iCalUID": "22aggu3ei8lq6rvrr5vs0v4gtc@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3117665321376000\"",
+   "id": "5j9egub91eg15cg926tp6mpfqp",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NWo5ZWd1YjkxZWcxNWNnOTI2dHA2bXBmcXAgamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-24T01:29:16.000Z",
+   "updated": "2019-05-26T01:04:20.688Z",
+   "summary": "test10",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-04-28"
+   },
+   "end": {
+    "date": "2019-05-01"
+   },
+   "transparency": "transparent",
+   "iCalUID": "5j9egub91eg15cg926tp6mpfqp@google.com",
+   "sequence": 1,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3117838837042000\"",
+   "id": "1knanv8mrfn5qd54u8k1ev2gg3",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWtuYW52OG1yZm41cWQ1NHU4azFldjJnZzMgamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-27T01:10:18.000Z",
+   "updated": "2019-05-27T01:10:18.521Z",
+   "summary": "test78",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-24"
+   },
+   "end": {
+    "date": "2019-05-25"
+   },
+   "transparency": "transparent",
+   "iCalUID": "1knanv8mrfn5qd54u8k1ev2gg3@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3118036659954000\"",
+   "id": "6hane5mp3m6q2nu0qhidrmj651",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmhhbmU1bXAzbTZxMm51MHFoaWRybWo2NTEgamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-24T02:08:16.000Z",
+   "updated": "2019-05-28T04:38:49.977Z",
+   "summary": "test100",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-01"
+   },
+   "end": {
+    "date": "2019-05-02"
+   },
+   "transparency": "transparent",
+   "iCalUID": "6hane5mp3m6q2nu0qhidrmj651@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3118063236170000\"",
+   "id": "6toa709svavo55duqh57f53ppe",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnRvYTcwOXN2YXZvNTVkdXFoNTdmNTNwcGUgamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-28T08:20:18.000Z",
+   "updated": "2019-05-28T08:20:18.085Z",
+   "summary": "test12",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-04-29"
+   },
+   "end": {
+    "date": "2019-04-30"
+   },
+   "transparency": "transparent",
+   "iCalUID": "6toa709svavo55duqh57f53ppe@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3118201731894000\"",
+   "id": "5inteuobg1e5vldjjibqg0h8s3",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NWludGV1b2JnMWU1dmxkamppYnFnMGg4czMgamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-29T03:34:25.000Z",
+   "updated": "2019-05-29T03:34:25.947Z",
+   "summary": "edge 3",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-31"
+   },
+   "end": {
+    "date": "2019-06-02"
+   },
+   "transparency": "transparent",
+   "iCalUID": "5inteuobg1e5vldjjibqg0h8s3@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3118495574314000\"",
+   "id": "3gvrvdesskbl0mm6n9ov5i1lh9",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M2d2cnZkZXNza2JsMG1tNm45b3Y1aTFsaDkgamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-30T20:23:07.000Z",
+   "updated": "2019-05-30T20:23:07.157Z",
+   "summary": "yeeter 2",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-18"
+   },
+   "end": {
+    "date": "2019-05-19"
+   },
+   "transparency": "transparent",
+   "iCalUID": "3gvrvdesskbl0mm6n9ov5i1lh9@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3118527017548000\"",
+   "id": "3h361qfs5gtpn2oekbtj0c8fnh",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M2gzNjFxZnM1Z3RwbjJvZWtidGowYzhmbmggamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-31T00:45:08.000Z",
+   "updated": "2019-05-31T00:45:08.774Z",
+   "summary": "yeet",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-18"
+   },
+   "end": {
+    "date": "2019-05-19"
+   },
+   "transparency": "transparent",
+   "iCalUID": "3h361qfs5gtpn2oekbtj0c8fnh@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3118567769910000\"",
+   "id": "5at7c9k97633gfnpm85611lva5",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NWF0N2M5azk3NjMzZ2ZucG04NTYxMWx2YTUgamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-31T06:24:44.000Z",
+   "updated": "2019-05-31T06:24:44.955Z",
+   "summary": "test790",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-17"
+   },
+   "end": {
+    "date": "2019-05-18"
+   },
+   "transparency": "transparent",
+   "iCalUID": "5at7c9k97633gfnpm85611lva5@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3118567787094000\"",
+   "id": "57n1lgnupjtoaouq9e6fdklkof",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NTduMWxnbnVwanRvYW91cTllNmZka2xrb2YgamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-31T06:24:53.000Z",
+   "updated": "2019-05-31T06:24:53.547Z",
+   "summary": "8899",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-17"
+   },
+   "end": {
+    "date": "2019-05-19"
+   },
+   "transparency": "transparent",
+   "iCalUID": "57n1lgnupjtoaouq9e6fdklkof@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3118579398558000\"",
+   "id": "6s1b8pffemt5hs5fs9dqbvf1um",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnMxYjhwZmZlbXQ1aHM1ZnM5ZHFidmYxdW0gamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-31T08:01:39.000Z",
+   "updated": "2019-05-31T08:01:39.279Z",
+   "summary": "bug test",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-21"
+   },
+   "end": {
+    "date": "2019-05-25"
+   },
+   "transparency": "transparent",
+   "iCalUID": "6s1b8pffemt5hs5fs9dqbvf1um@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3118579449940000\"",
+   "id": "6qp226d8susdq28e03pm8nb0ah",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnFwMjI2ZDhzdXNkcTI4ZTAzcG04bmIwYWggamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-31T08:02:04.000Z",
+   "updated": "2019-05-31T08:02:04.970Z",
+   "summary": "long test",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-21"
+   },
+   "end": {
+    "date": "2019-05-25"
+   },
+   "transparency": "transparent",
+   "iCalUID": "6qp226d8susdq28e03pm8nb0ah@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3118667008318000\"",
+   "id": "7jqf07imgs6rt6e01t65e6sqbs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N2pxZjA3aW1nczZydDZlMDF0NjVlNnNxYnMgamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-31T20:11:44.000Z",
+   "updated": "2019-05-31T20:11:44.159Z",
+   "summary": "basic",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-06-18"
+   },
+   "end": {
+    "date": "2019-06-20"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7jqf07imgs6rt6e01t65e6sqbs@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3119186446104000\"",
+   "id": "7lkmumf39lqlpo5bjl3gbpk98n",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N2xrbXVtZjM5bHFscG81YmpsM2dicGs5OG4gamZzY2htaWVjaGVuQG0",
+   "created": "2019-05-31T06:25:49.000Z",
+   "updated": "2019-06-03T20:20:23.052Z",
+   "summary": "long",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-16"
+   },
+   "end": {
+    "date": "2019-05-29"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7lkmumf39lqlpo5bjl3gbpk98n@google.com",
+   "sequence": 0,
+   "extendedProperties": {
+    "private": {
+     "everyoneDeclinedDismissed": "-1"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3119409799988000\"",
+   "id": "53ka8lmhsqm4v84l02ta8hdqbg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NTNrYThsbWhzcW00djg0bDAydGE4aGRxYmcgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-05T03:21:39.000Z",
+   "updated": "2019-06-05T03:21:39.994Z",
+   "summary": "edge test 4",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-06-30"
+   },
+   "end": {
+    "date": "2019-07-02"
+   },
+   "transparency": "transparent",
+   "iCalUID": "53ka8lmhsqm4v84l02ta8hdqbg@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3119520840436000\"",
+   "id": "30gk77ba4klgi8ujvbudliicp3",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MzBnazc3YmE0a2xnaTh1anZidWRsaWljcDMgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-05T18:47:00.000Z",
+   "updated": "2019-06-05T18:47:00.218Z",
+   "summary": "end test",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-07-05"
+   },
+   "end": {
+    "date": "2019-07-07"
+   },
+   "transparency": "transparent",
+   "iCalUID": "30gk77ba4klgi8ujvbudliicp3@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3119526954600000\"",
+   "id": "1sbq7r2injhoi2ie7hsanvfik5",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MXNicTdyMmluamhvaTJpZTdoc2FudmZpazUgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-05T19:37:57.000Z",
+   "updated": "2019-06-05T19:37:57.300Z",
+   "summary": "test22222",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-06-09"
+   },
+   "end": {
+    "date": "2019-06-10"
+   },
+   "transparency": "transparent",
+   "iCalUID": "1sbq7r2injhoi2ie7hsanvfik5@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3119527049658000\"",
+   "id": "7nr6ot2r61tnn5lfk9kd8ob9ku",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N25yNm90MnI2MXRubjVsZms5a2Q4b2I5a3UgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-05T19:38:44.000Z",
+   "updated": "2019-06-05T19:38:44.829Z",
+   "summary": "test333333",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-06-10"
+   },
+   "end": {
+    "date": "2019-06-14"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7nr6ot2r61tnn5lfk9kd8ob9ku@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3119527098352000\"",
+   "id": "1jig5k85j0ha6a9hoi9lbovajf",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWppZzVrODVqMGhhNmE5aG9pOWxib3ZhamYgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-05T19:39:09.000Z",
+   "updated": "2019-06-05T19:39:09.176Z",
+   "summary": "test4444",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-06-12"
+   },
+   "end": {
+    "date": "2019-06-13"
+   },
+   "transparency": "transparent",
+   "iCalUID": "1jig5k85j0ha6a9hoi9lbovajf@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3119581326258000\"",
+   "id": "7ddq6dpr46g76f181tc0ivg5aj",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N2RkcTZkcHI0Nmc3NmYxODF0YzBpdmc1YWogamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-06T03:11:03.000Z",
+   "updated": "2019-06-06T03:11:03.129Z",
+   "summary": "test4567",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-16"
+   },
+   "end": {
+    "date": "2019-05-18"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7ddq6dpr46g76f181tc0ivg5aj@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3119593685278000\"",
+   "id": "15tbnnq86r0dsup013e6nukekf",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MTV0Ym5ucTg2cjBkc3VwMDEzZTZudWtla2YgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-06T04:54:02.000Z",
+   "updated": "2019-06-06T04:54:02.639Z",
+   "summary": "test789",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-30"
+   },
+   "end": {
+    "date": "2019-05-31"
+   },
+   "transparency": "transparent",
+   "iCalUID": "15tbnnq86r0dsup013e6nukekf@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3119705972362000\"",
+   "id": "4tk8bigqua81c0itb1fr29gliv",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NHRrOGJpZ3F1YTgxYzBpdGIxZnIyOWdsaXYgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-06T20:29:46.000Z",
+   "updated": "2019-06-06T20:29:46.181Z",
+   "summary": "test999",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-26"
+   },
+   "end": {
+    "date": "2019-05-31"
+   },
+   "transparency": "transparent",
+   "iCalUID": "4tk8bigqua81c0itb1fr29gliv@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3119729450018000\"",
+   "id": "5gk7eitg5tt4qgl07rakn0cq2l",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NWdrN2VpdGc1dHQ0cWdsMDdyYWtuMGNxMmwgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-06T23:45:24.000Z",
+   "updated": "2019-06-06T23:45:25.009Z",
+   "summary": "test987",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-29"
+   },
+   "end": {
+    "date": "2019-05-30"
+   },
+   "transparency": "transparent",
+   "iCalUID": "5gk7eitg5tt4qgl07rakn0cq2l@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3119729515460000\"",
+   "id": "472k42afcq3q57tsgrrk0oct7r",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NDcyazQyYWZjcTNxNTd0c2dycmswb2N0N3IgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-06T23:45:57.000Z",
+   "updated": "2019-06-06T23:45:57.730Z",
+   "summary": "test879",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-28"
+   },
+   "end": {
+    "date": "2019-05-29"
+   },
+   "transparency": "transparent",
+   "iCalUID": "472k42afcq3q57tsgrrk0oct7r@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3119756474844000\"",
+   "id": "7jcq9qc8ak8uekltvhaa16ippd",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N2pjcTlxYzhhazh1ZWtsdHZoYWExNmlwcGQgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-07T03:30:37.000Z",
+   "updated": "2019-06-07T03:30:37.422Z",
+   "summary": "test5555",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-06-12"
+   },
+   "end": {
+    "date": "2019-06-13"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7jcq9qc8ak8uekltvhaa16ippd@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3119756499606000\"",
+   "id": "7rv5soes79mm9lo9476uc202eh",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N3J2NXNvZXM3OW1tOWxvOTQ3NnVjMjAyZWggamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-07T03:30:49.000Z",
+   "updated": "2019-06-07T03:30:49.803Z",
+   "summary": "test7777",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-06-12"
+   },
+   "end": {
+    "date": "2019-06-13"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7rv5soes79mm9lo9476uc202eh@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3120073896370000\"",
+   "id": "2rbpiakghlflva9nobva3lkicg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MnJicGlha2dobGZsdmE5bm9idmEzbGtpY2cgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-08T23:35:48.000Z",
+   "updated": "2019-06-08T23:35:48.185Z",
+   "summary": "test",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-12-10"
+   },
+   "end": {
+    "date": "2019-12-11"
+   },
+   "transparency": "transparent",
+   "iCalUID": "2rbpiakghlflva9nobva3lkicg@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3120073916490000\"",
+   "id": "3q6oje7plo7012tnc35irsui54",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M3E2b2plN3BsbzcwMTJ0bmMzNWlyc3VpNTQgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-08T23:35:58.000Z",
+   "updated": "2019-06-08T23:35:58.245Z",
+   "summary": "I hope you're doing well!",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2020-01-04"
+   },
+   "end": {
+    "date": "2020-01-05"
+   },
+   "transparency": "transparent",
+   "iCalUID": "3q6oje7plo7012tnc35irsui54@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3120073936214000\"",
+   "id": "7oh0gudm5ulotgb5011krbavp1",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N29oMGd1ZG01dWxvdGdiNTAxMWtyYmF2cDEgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-08T23:36:08.000Z",
+   "updated": "2019-06-08T23:36:08.107Z",
+   "summary": "Hello from the past!",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2020-01-03"
+   },
+   "end": {
+    "date": "2020-01-05"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7oh0gudm5ulotgb5011krbavp1@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3120092148570000\"",
+   "id": "0ujejr9jlt20l2m6cb5g2dvnn3",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MHVqZWpyOWpsdDIwbDJtNmNiNWcyZHZubjMgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-09T02:07:36.000Z",
+   "updated": "2019-06-09T02:07:54.285Z",
+   "summary": "testnov",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-11-01"
+   },
+   "end": {
+    "date": "2019-11-03"
+   },
+   "transparency": "transparent",
+   "iCalUID": "0ujejr9jlt20l2m6cb5g2dvnn3@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3120093094108000\"",
+   "id": "2p8gk6og90brtot7gn7f0cuho7",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MnA4Z2s2b2c5MGJydG90N2duN2YwY3VobzcgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-09T02:15:47.000Z",
+   "updated": "2019-06-09T02:15:47.054Z",
+   "summary": "year begin",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-12-29"
+   },
+   "end": {
+    "date": "2020-01-01"
+   },
+   "transparency": "transparent",
+   "iCalUID": "2p8gk6og90brtot7gn7f0cuho7@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3120097762736000\"",
+   "id": "5fu9diasmh9hf8n1qejv6vnare",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NWZ1OWRpYXNtaDloZjhuMXFlanY2dm5hcmUgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-09T02:54:41.000Z",
+   "updated": "2019-06-09T02:54:41.368Z",
+   "summary": "first end",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2020-01-31"
+   },
+   "end": {
+    "date": "2020-02-02"
+   },
+   "transparency": "transparent",
+   "iCalUID": "5fu9diasmh9hf8n1qejv6vnare@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3120101863352000\"",
+   "id": "2uo0iul7ktfjtvbh6lvog312pn",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MnVvMGl1bDdrdGZqdHZiaDZsdm9nMzEycG4gamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-09T03:28:51.000Z",
+   "updated": "2019-06-09T03:28:51.676Z",
+   "summary": "testendnov",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-11-29"
+   },
+   "end": {
+    "date": "2019-12-01"
+   },
+   "transparency": "transparent",
+   "iCalUID": "2uo0iul7ktfjtvbh6lvog312pn@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3120103665224000\"",
+   "id": "6glhobq13a4g6hs8nf1aahla5b",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmdsaG9icTEzYTRnNmhzOG5mMWFhaGxhNWIgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-09T03:43:52.000Z",
+   "updated": "2019-06-09T03:43:52.612Z",
+   "summary": "leaptest",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2020-02-28"
+   },
+   "end": {
+    "date": "2020-03-01"
+   },
+   "transparency": "transparent",
+   "iCalUID": "6glhobq13a4g6hs8nf1aahla5b@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3120110552532000\"",
+   "id": "0psfagrll8u0gtfb8f594l5ie4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MHBzZmFncmxsOHUwZ3RmYjhmNTk0bDVpZTQgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-09T04:41:16.000Z",
+   "updated": "2019-06-09T04:41:16.266Z",
+   "summary": "martest",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2020-03-10"
+   },
+   "end": {
+    "date": "2020-03-17"
+   },
+   "transparency": "transparent",
+   "iCalUID": "0psfagrll8u0gtfb8f594l5ie4@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3120110572044000\"",
+   "id": "62e5o73vuirm2qqg67tavb9rig",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjJlNW83M3Z1aXJtMnFxZzY3dGF2YjlyaWcgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-09T04:41:25.000Z",
+   "updated": "2019-06-09T04:41:26.022Z",
+   "summary": "marend",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2020-03-31"
+   },
+   "end": {
+    "date": "2020-04-03"
+   },
+   "transparency": "transparent",
+   "iCalUID": "62e5o73vuirm2qqg67tavb9rig@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3120110591742000\"",
+   "id": "4hn439ngl1s8l72bdtt5mjsgje",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NGhuNDM5bmdsMXM4bDcyYmR0dDVtanNnamUgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-09T04:41:35.000Z",
+   "updated": "2019-06-09T04:41:35.871Z",
+   "summary": "marstart",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2020-03-01"
+   },
+   "end": {
+    "date": "2020-03-04"
+   },
+   "transparency": "transparent",
+   "iCalUID": "4hn439ngl1s8l72bdtt5mjsgje@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3120111287380000\"",
+   "id": "5lh158c1v79nlta9pn2kedsaan",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NWxoMTU4YzF2NzlubHRhOXBuMmtlZHNhYW4gamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-09T04:47:23.000Z",
+   "updated": "2019-06-09T04:47:23.690Z",
+   "summary": "long dec",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-12-26"
+   },
+   "end": {
+    "date": "2020-01-03"
+   },
+   "transparency": "transparent",
+   "iCalUID": "5lh158c1v79nlta9pn2kedsaan@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3120124127010000\"",
+   "id": "1ci01a4abf145mjpg7cif5guto",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWNpMDFhNGFiZjE0NW1qcGc3Y2lmNWd1dG8gamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-09T06:34:23.000Z",
+   "updated": "2019-06-09T06:34:23.505Z",
+   "summary": "testoct",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-09-30"
+   },
+   "end": {
+    "date": "2019-10-07"
+   },
+   "transparency": "transparent",
+   "iCalUID": "1ci01a4abf145mjpg7cif5guto@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3120246047306000\"",
+   "id": "5jfh80cscbjkd3vipk538dd711",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NWpmaDgwY3NjYmprZDN2aXBrNTM4ZGQ3MTEgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-09T23:30:23.000Z",
+   "updated": "2019-06-09T23:30:23.653Z",
+   "summary": "test9870",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-06-10"
+   },
+   "end": {
+    "date": "2019-06-11"
+   },
+   "transparency": "transparent",
+   "iCalUID": "5jfh80cscbjkd3vipk538dd711@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3120246647310000\"",
+   "id": "6irk9k6dup65tikvskujlmv15k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmlyazlrNmR1cDY1dGlrdnNrdWpsbXYxNWsgamZzY2htaWVjaGVuQG0",
+   "created": "2019-06-09T23:35:23.000Z",
+   "updated": "2019-06-09T23:35:23.655Z",
+   "summary": "testers",
+   "creator": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "jfschmiechen@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2019-05-27"
+   },
+   "end": {
+    "date": "2019-05-30"
+   },
+   "transparency": "transparent",
+   "iCalUID": "6irk9k6dup65tikvskujlmv15k@google.com",
+   "sequence": 0
+  }
+ ]
+}
